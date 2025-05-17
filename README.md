@@ -1,4 +1,4 @@
-# Hi there! I'm Aya @AyaJapar👋  
+# Hi there! I'm Aya @AyaDzhaparbekova👋  
 🌟 Frontend Developer | Coding Mom  
 💻 Transitioning into tech while balancing family life.  
 🌱 Currently learning HTML, CSS, JavaScript, and React.  
